@@ -1,0 +1,12 @@
+C:\Users\Josip\Desktop\safe_client\safe_client\bin\Debug\safe_client.exe.config
+C:\Users\Josip\Desktop\safe_client\safe_client\bin\Debug\safe_client.exe
+C:\Users\Josip\Desktop\safe_client\safe_client\bin\Debug\safe_client.pdb
+C:\Users\Josip\Desktop\safe_client\safe_client\obj\Debug\safe_client.csprojResolveAssemblyReference.cache
+C:\Users\Josip\Desktop\safe_client\safe_client\obj\Debug\safe_client.SafeClient.resources
+C:\Users\Josip\Desktop\safe_client\safe_client\obj\Debug\safe_client.Properties.Resources.resources
+C:\Users\Josip\Desktop\safe_client\safe_client\obj\Debug\safe_client.csproj.GenerateResource.Cache
+C:\Users\Josip\Desktop\safe_client\safe_client\obj\Debug\safe_client.exe
+C:\Users\Josip\Desktop\safe_client\safe_client\obj\Debug\safe_client.pdb
+C:\Users\Josip\Documents\Arduino\mobilisisContest2015\MobilisisArduinoContest2015-arduino_sketch\safe_client\safe_client\bin\Debug\safe_client.exe.config
+C:\Users\Josip\Documents\Arduino\mobilisisContest2015\MobilisisArduinoContest2015-arduino_sketch\safe_client\safe_client\obj\Debug\safe_client.exe
+C:\Users\Josip\Documents\Arduino\mobilisisContest2015\MobilisisArduinoContest2015-arduino_sketch\safe_client\safe_client\obj\Debug\safe_client.pdb
